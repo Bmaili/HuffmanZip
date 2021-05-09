@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resourse/biankuang.png</file>
+        <file>resourse/room.jfif</file>
+        <file>resourse/yellow.jfif</file>
+        <file>resourse/cat4.jfif</file>
+        <file>resourse/dongtu.gif</file>
+        <file>resourse/green.jfif</file>
+        <file>resourse/shallow-green.jpg</file>
+        <file>resourse/simple-green.jpg</file>
+        <file>resourse/code2.jpg</file>
+        <file>resourse/wenjian.jpg</file>
+        <file>resourse/weitu.jfif</file>
+        <file>resourse/action.gif</file>
+        <file>resourse/action3.gif</file>
+        <file>resourse/wenjian6.jpg</file>
+        <file>resourse/jieya9.png</file>
+    </qresource>
+</RCC>
