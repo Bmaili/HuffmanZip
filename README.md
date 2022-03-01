@@ -11,7 +11,7 @@ HuffmanZip是一款基于Huffman算法的文本、位图压缩与解压软件，
 ## 相关图片
 
 ![](http://bmalimarkdown.oss-cn-beijing.aliyuncs.com/img/gJfYDK.png)
-![](http://bmalimarkdown.oss-cn-beijing.aliyuncs.com/img/gJfUED.png)
+![](https://z3.ax1x.com/2021/05/09/gJfUED.png)
 ![](http://bmalimarkdown.oss-cn-beijing.aliyuncs.com/img/gJfaUe.png)
 ![](http://bmalimarkdown.oss-cn-beijing.aliyuncs.com/img/gJfJu6.png)
 
@@ -25,9 +25,9 @@ HuffmanZip是一款基于Huffman算法的文本、位图压缩与解压软件，
 
 3. 主要功能有二：
 
--     能即时地对输入的文本进行Huffman编码、解码，显示各字符的编码结果，利于使用者对Huffman的直观理解、学习。
+- 能即时地对输入的文本进行Huffman编码、解码，显示各字符的编码结果，利于使用者对Huffman的直观理解、学习。
 
--     利用Huffman编码对文本或位图文件进行数据压缩，同时将压缩信息也写入压缩文件内，故用户也可使用该软件解压之。
+- 利用Huffman编码对文本或位图文件进行数据压缩，同时将压缩信息也写入压缩文件内，故用户也可使用该软件解压之。
 
 
 
